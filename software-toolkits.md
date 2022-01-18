@@ -13,7 +13,7 @@ Unlike most existing neural network verification approaches which are scattered 
 
 SOCRATES is still in active development. Any suggestions and collaborations are welcomed.
 
-The source code of SOCRATES is available at [source](https://github.com/longph1989/Socrates) and the benchmark is available at [benchmark](https://figshare.com/s/f2c4959b59cf32da4891).
+The source code of SOCRATES is available at [source](https://github.com/longph1989/Socrates) and the benchmark is available at [benchmark](https://figshare.com/s/f2c4959b59cf32da4891). More information are available at [SOCRATES website](https://socrates4nn.github.io/).
 
 ## <a name="sfuzz"></a>sFuzz – Smart Fuzzing Contracts
 
