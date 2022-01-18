@@ -5,6 +5,16 @@ title: Software Toolkits
 
 Some of the key software toolkits we have developed are described below. Please see [our research pages](/research.html) for more.
 
+## <a name="socrates"></a>SOCRATES - A Unified Platform for Neural Network Analysis
+
+SOCRATES is a unified platform for neural network verification developed by Sun Jun's team at SMU.
+
+Unlike most existing neural network verification approaches which are scattered (i.e., each approach tackles some restricted classes of neural networks against certain particular properties), incomparable (i.e., each approach has its own assumptions and input format) and thus hard to apply, reuse or extend, SOCRATES aims at providing a unified platform for neural network verification. Specifically, it supports a standardized format for a variety of neural network models, an asseration language for property specification as well as two novel algorithms for verifying or falsifying neural network models.
+
+SOCRATES is still in active development. Any suggestions and collaborations are welcomed.
+
+The source code of SOCRATES is available at [source](https://github.com/longph1989/Socrates) and the benchmark is available at [benchmark](https://figshare.com/s/f2c4959b59cf32da4891).
+
 ## <a name="sfuzz"></a>sFuzz – Smart Fuzzing Contracts
 
 In essence, smart contracts are computer programs which are automatically executed on a distributed blockchain infrastructure. Popular applications of smart contracts include crowd fund raising and online gambling, which often involve monetary transactions as part of the contract. Smart contracts in Ethereum are written in a programming language called Solidity. Like traditional programs, smart contracts written in Solidity may contain vulnerabilities, which potentially lead to attacks. The problem is magnified by the fact that smart contracts, unlike ordinary programs, cannot be patched once they are deployed on the blockchain.
