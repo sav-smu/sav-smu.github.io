@@ -22,6 +22,28 @@ Neural networks can be (arguably) viewed a different paradigm of programming, wh
 ## Key Publications
 
 <span class="pubtitle">
+				<a href="">Causality-Based Neural Network Repair</a>.
+			</span><br />
+			<span class="authors">
+				Bing Sun, Jun Sun, Long H. Pham, Jie Shi.
+			</span><br />
+			<span style="color:grey;"><span class="venuetype"></span><span class="venue">44th International Conference on Software Engineering, ICSE 2022, Pittsburgh, USA, 2022.</span></span>.
+			<br />
+			<span class="links">
+</span>
+
+<span class="pubtitle">
+				<a href="">Probabilistic Verification of Neural Networks Against Group Fairness</a>.
+			</span><br />
+			<span class="authors">
+				Bing Sun, Jun Sun, Ting Dai, Lijun Zhang.
+			</span><br />
+			<span style="color:grey;"><span class="venuetype"></span><span class="venue">24th International Symposium on Formal Methods, FM 2021, Beijng, China, 20-26 November, 2021.</span></span>.
+			<br />
+			<span class="links">
+</span>
+
+<span class="pubtitle">
 				<a href="https://doi.org/10.1007/978-3-030-72016-2_21">Improving Neural Network Verification through Spurious Region Guided Refinement</a>.
 			</span><br />
 			<span class="authors">
