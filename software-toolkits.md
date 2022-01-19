@@ -5,11 +5,11 @@ title: Software Toolkits
 
 Some of the key software toolkits we have developed are described below. Please see [our research pages](/research.html) for more.
 
-## <a name="socrates"></a>SOCRATES - A Unified Platform for Neural Network Analysis
+## <a name="socrates"></a>SOCRATES - A Unified Platform for Neural Network Testing, Verification and Repair
 
-SOCRATES is a unified platform for neural network verification developed by Sun Jun's team at SMU.
+SOCRATES is a unified platform for neural network analysis developed by Sun Jun's team at SMU.
 
-Unlike most existing neural network verification approaches which are scattered (i.e., each approach tackles some restricted classes of neural networks against certain particular properties), incomparable (i.e., each approach has its own assumptions and input format) and thus hard to apply, reuse or extend, SOCRATES aims at providing a unified platform for neural network verification. Specifically, it supports a standardized format for a variety of neural network models, an asseration language for property specification as well as two novel algorithms for verifying or falsifying neural network models.
+Unlike most existing neural network analysis approaches which are scattered (i.e., each approach tackles some restricted classes of neural networks against certain particular properties), incomparable (i.e., each approach has its own assumptions and input format) and thus hard to apply, reuse or extend, SOCRATES aims at providing a unified platform for neural network testing, verification and repair. Specifically, it supports a standardized format for a variety of neural network models, an asseration language for property specification as well as many engines for testing, verifying, and repairing neural network models.
 
 SOCRATES is still in active development. Any suggestions and collaborations are welcomed.
 
