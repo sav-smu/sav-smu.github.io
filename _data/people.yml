@@ -92,7 +92,7 @@ wangzilin:
     display_name: "WANG Zilin"
     bio: "PhD Student"
     role: grad
-    images: /img/people/wangzilin.jpg
+    image: /img/people/wangzilin.jpg
 
 phd-mengdi:
     display_name: "ZHANG Mengdi"
@@ -104,13 +104,13 @@ zhangruihan:
     display_name: "ZHANG Ruihan"
     bio: "PhD Student"
     role: grad
-    images: /img/people/zhangruihan.jpg
+    image: /img/people/zhangruihan.jpg
 
 zhaowei:
     display_name: "ZHAO Wei"
     bio: "PhD Student"
     role: grad
-    images: /img/people/zhaowei.jpg
+    image: /img/people/zhaowei.jpg
 
 alum-manman:
     display_name: "CHEN Manman"
