@@ -43,6 +43,11 @@ postdoc-richard:
     role: postdoc
     image: /img/people/richard.jpg
 
+zhangxiaodong:
+    display_name: "Zhang Xiaodong"
+    bio: "Research Fellow"
+    role: postdoc
+
 postdoc-yueling:
     display_name: "ZHANG Yueling"
     bio: "Research Fellow"
