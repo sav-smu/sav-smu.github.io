@@ -1,3 +1,4 @@
+# Faculty
 
 prof-sunjun:
     display_name: "SUN Jun"
@@ -22,13 +23,7 @@ prof-cposkitt:
 #    image: /img/people/scott.png
 #    bio: aka Cyclops
 
-postdoc-yuqi:
-    display_name: "CHEN Yuqi"
-    webpage: "https://yuqichen94.github.io/"
-    github: yuqiChen94
-    role: alum
-    bio: "Research Fellow"
-    image: /img/people/yuqi.jpg
+# Research Fellows
 
 liboquan:
     display_name: "LI Boquan"
@@ -54,12 +49,7 @@ zhangxiaodong:
     bio: "Research Fellow"
     role: postdoc
 
-postdoc-yueling:
-    display_name: "ZHANG Yueling"
-    bio: "Research Fellow"
-    role: alum
-    image: /img/people/yueling.jpg
-    webpage: "https://scholar.google.com/citations?user=-g6QrssAAAAJ&hl=en"
+# PhD Students
 
 gaobo:
     display_name: "GAO Bo"
@@ -123,6 +113,16 @@ zhaowei:
     bio: "PhD Student"
     role: grad
     image: /img/people/zhaowei.jpg
+
+# Alumni
+
+postdoc-yuqi:
+    display_name: "CHEN Yuqi"
+    webpage: "https://yuqichen94.github.io/"
+    github: yuqiChen94
+    role: alum
+    bio: "Research Fellow"
+    image: /img/people/yuqi.jpg
 
 alum-manman:
     display_name: "CHEN Manman"
@@ -282,6 +282,13 @@ alum-shaojie:
     display_name: "ZHANG Shaojie"
     role: alum
     bio: "Research Fellow"
+
+postdoc-yueling:
+    display_name: "ZHANG Yueling"
+    bio: "Research Fellow"
+    role: alum
+    image: /img/people/yueling.jpg
+    webpage: "https://scholar.google.com/citations?user=-g6QrssAAAAJ&hl=en"
 
 alum-mz:
     display_name: "Manchun ZHENG"
