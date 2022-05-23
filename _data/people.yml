@@ -30,6 +30,12 @@ postdoc-yuqi:
     bio: "Research Fellow"
     image: /img/people/yuqi.jpg
 
+liboquan:
+    display_name: "Li Boquan"
+    bio: "Research Fellow"
+    role: postdoc
+    image: /img/people/liboquan.jpg
+
 postdoc-long:
     display_name: "PHAM Hong Long"
     bio: "Research Fellow"
