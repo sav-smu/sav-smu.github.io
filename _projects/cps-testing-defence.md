@@ -21,6 +21,17 @@ Cyber-physical systems are often safety-critical, e.g., those which control impo
 ## Key Publications
 
 <span class="pubtitle">
+				<a href="https://doi.org/10.1145/3468264.3468617">Code integrity attestation for PLCs using black box neural network predictions</a>.
+			</span><br />
+			<span class="authors">
+				Yuqi Chen, Christopher M. Poskitt, and Jun Sun.
+			</span><br />
+			<span style="color:grey;"><span class="venuetype"></span><span class="venue">ESEC/FSE '21: 29th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Athens, Greece, August 23-28, 2021</span></span>.
+			<br />
+			<span class="links">
+</span>
+
+<span class="pubtitle">
 				<a href="https://doi.org/10.1145/3395363.3397376">Active fuzzing for testing and securing cyber-physical systems</a>.
 			</span><br />
 			<span class="authors">
