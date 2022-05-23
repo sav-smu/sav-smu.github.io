@@ -117,14 +117,6 @@ zhaowei:
 
 # Alumni
 
-postdoc-yuqi:
-    display_name: "CHEN Yuqi"
-    webpage: "https://yuqichen94.github.io/"
-    github: yuqiChen94
-    role: alum
-    bio: "Research Fellow"
-    image: /img/people/yuqi.jpg
-
 alum-manman:
     display_name: "CHEN Manman"
     role: alum
@@ -136,6 +128,14 @@ alum-xiaohong:
     role: alum
     bio: "Research Assistant"
     webpage: "https://fsl.cs.illinois.edu/people/xiaohong-chen/"
+
+postdoc-yuqi:
+    display_name: "CHEN Yuqi"
+    webpage: "https://yuqichen94.github.io/"
+    github: yuqiChen94
+    role: alum
+    bio: "Research Fellow"
+    image: /img/people/yuqi.jpg
 
 alum-cristian:
     display_name: "Cristian GHERGHINA"
