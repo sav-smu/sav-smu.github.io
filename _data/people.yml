@@ -70,11 +70,11 @@ phd-tai:
     image: /img/people/tai.jpg
     webpage: https://sg.linkedin.com/in/tai-duy-nguyen-bb703013b
 
-phd-phuc:
-    display_name: "NGUYEN Hua Gia Phuc"
-    bio: "PhD Student"
-    role: grad
-    image: /img/people/phuc.jpg
+#phd-phuc:
+#    display_name: "NGUYEN Hua Gia Phuc"
+#    bio: "PhD Student"
+#    role: grad
+#    image: /img/people/phuc.jpg
 
 phd-sunbing:
     display_name: "SUN Bing"
@@ -88,11 +88,29 @@ phd-sunyang:
     role: grad
     image: /img/people/sunyang.jpg
 
+wangzilin:
+    display_name: "WANG Zilin"
+    bio: "PhD Student"
+    role: grad
+    images: /img/people/wangzilin.jpg
+
 phd-mengdi:
     display_name: "ZHANG Mengdi"
     bio: "PhD Student"
     role: grad
     image: /img/people/mengdi.jpg
+
+zhangruihan:
+    display_name: "ZHANG Ruihan"
+    bio: "PhD Student"
+    role: grad
+    images: /img/people/zhangruihan.jpg
+
+zhaowei:
+    display_name: "ZHAO Wei"
+    bio: "PhD Student"
+    role: grad
+    images: /img/people/zhaowei.jpg
 
 alum-manman:
     display_name: "CHEN Manman"
