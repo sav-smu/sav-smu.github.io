@@ -5,7 +5,7 @@ prof-sunjun:
     github: sunjunhqq
     role: faculty
     image: /img/people/sunjun.jpg
-    bio: "Associate Professor"
+    bio: "Professor"
 
 prof-cposkitt:
     display_name: "Chris POSKITT"
@@ -24,10 +24,10 @@ prof-cposkitt:
 
 postdoc-yuqi:
     display_name: "CHEN Yuqi"
-    webpage: "https://scholar.google.com.sg/citations?user=51itJEEAAAAJ&hl=en"
+    webpage: "https://yuqichen94.github.io/"
     github: yuqiChen94
+    role: alum
     bio: "Research Fellow"
-    role: postdoc
     image: /img/people/yuqi.jpg
 
 postdoc-long:
